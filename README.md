@@ -1,0 +1,2 @@
+# pesquisaOperacional
+atividade da disciplina
